@@ -1,0 +1,16 @@
+const QuestionnaireEnum = {
+  PATH_RESUME: "resume",
+  PATH_QUESTION_NAME: "q1",
+  PATH_QUESTION_SECTOR: "q2",
+  PATH_QUESTION_EXPERIENCE: "q3",
+  PATH_QUESTION_JOB: "q3a",
+  PATH_QUESTION_JOB_2: "q3d",
+  PATH_READY_TO_APPLY: "q3b",
+  PATH_READY_TO_INTERVIEW: "q3e",
+  PATH_NEED_TO_TRAIN: "q3f",
+  PATH_READY_TO_DISCOVER_NEW_JOB: "q4",
+  PATH_AVAILABILITY_TO_TRAIN: "q4a",
+  PATH_KNOW_YOURSELF: "q4b",
+};
+
+export default QuestionnaireEnum;
